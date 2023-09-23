@@ -1,6 +1,5 @@
-# Project Title
+# This profile is a work in progress, stay tuned for updates and improvements.
 
-This profile is a work in progress, stay tuned for updates and improvements.
 
 ## Description
 
